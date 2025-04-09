@@ -1,6 +1,6 @@
-## Graph Fundamentals
+# Graph Fundamentals
 
-# Graph Representations
+## Graph Representations
 
 * * [ ]  Adjacency Matrix
 
@@ -8,7 +8,7 @@
 
 * * [ ]  Edge List
 
-# Types of Graphs
+## Types of Graphs
 
 * * [ ]  Directed / Undirected
 
@@ -24,7 +24,7 @@
 
 * * [ ]  Bipartite Graphs
 
-# Graph Traversal
+## Graph Traversal
 
 * * [ ]  DFS (Depth-First Search)
 
@@ -58,13 +58,13 @@
 
 * * [ ]  Kahn’s Algorithm (for cycle detection in DAG)
 
-# Topological Sorting (DAG Only)
+## Topological Sorting (DAG Only)
 
 * * [ ] DFS-based
 
 * * [ ] Kahn’s Algorithm (BFS-based)
 
-# Shortest Path Algorithms
+## Shortest Path Algorithms
 
 * * [ ]  Unweighted Graph
 
@@ -80,7 +80,7 @@
 
 * * [ ]  Johnson’s Algorithm
 
-# Minimum Spanning Tree (MST)
+## Minimum Spanning Tree (MST)
 
 * * [ ]  Prim’s Algorithm
 
@@ -88,7 +88,7 @@
 
 * * [ ]  Borůvka’s Algorithm (less common but good for bonus points)
 
-# Disjoint Set (Union-Find)
+## Disjoint Set (Union-Find)
 
 * * [ ]  Union by Rank
 
@@ -104,25 +104,25 @@
 
 * * [ ]  Dynamic connectivity
 
-# Strongly Connected Components (SCC)
+## Strongly Connected Components (SCC)
 
 * * [ ]  Kosaraju’s Algorithm
 
 * * [ ]  Tarjan’s Algorithm
 
-# Bridges and Articulation Points
+## Bridges and Articulation Points
 
 * * [ ]  Tarjan’s Algorithm (DFS-based)
 
 * * [ ]  Used in network reliability and bi-connected components
 
-# Bipartite Graph Check
+## Bipartite Graph Check
 
 * * [ ]  BFS Coloring
 
 * * [ ]  DFS Coloring
 
-# Graph Coloring
+## Graph Coloring
 
 * * [ ]  M-Coloring Problem
 
@@ -130,7 +130,7 @@
 
 * * [ ]  Applications in scheduling, register allocation
 
-# Advanced Topics
+## Advanced Topics
 
 * * [ ]  0-1 BFS (Deque-based)
 
@@ -146,7 +146,7 @@
 
 * * [ ]  Hamiltonian Path (NP-complete)
 
-# Real-world Applications & Patterns
+## Real-world Applications & Patterns
 
 * * [ ]  Word Ladder (BFS + Graph modeling)
 
